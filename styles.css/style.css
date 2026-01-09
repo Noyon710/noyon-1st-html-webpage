@@ -83,8 +83,8 @@ body{
       background:#fdfdfd;
       color:#30B868;
       padding:6px 14px;
-    border-radius:20px;
-    margin-bottom:20px;
+        border-radius:20px;
+        margin-bottom:20px;
 }
 
 .hero h1{
@@ -97,9 +97,9 @@ body{
 }
 
 .hero-text{
-  max-width:720px;
-  margin:0 auto 30px;
-  color:#cbd5e1;
+       max-width:720px;
+       margin:0 auto 30px;
+       color:#cbd5e1;
 }
 
 .hero-buttons{
